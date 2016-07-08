@@ -16,3 +16,6 @@ dnmonster:
 
 redis:
     image: redis:3.0
+
+rethinkdb:
+    image: rethinkdb:2.3.4
